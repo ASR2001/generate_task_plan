@@ -34,4 +34,6 @@ htmlcov/
 .coverage
 .coverage.*
 coverage.xml
-*.cover 
+*.cover
+
+.specstory
